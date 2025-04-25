@@ -1,0 +1,20 @@
+.item {
+	header {
+		div {
+			.name_container {
+				display: flex;
+				align-items: center;
+				gap: 10px;
+				span {
+					color: rgb(145, 126, 16);
+					font-size: 25px;
+					font-weight: 700;
+				}
+			}
+		}
+	}
+	article {
+		border: 3px solid blanchedalmond;
+		padding: 10px 20px;
+	}
+}
